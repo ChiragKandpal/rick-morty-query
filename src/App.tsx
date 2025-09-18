@@ -21,7 +21,7 @@ const rootRoute = createRootRoute({
 
 const characterListRoute = createRoute({
   getParentRoute: () => rootRoute,
-  path: "/rick-morty-query/",
+  path: "/rick-morty-query/character",
   component: CharacterList,
 });
 
