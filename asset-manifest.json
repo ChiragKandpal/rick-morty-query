@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rick-morty-query/character/static/css/main.e6c13ad2.css",
+    "main.js": "/rick-morty-query/character/static/js/main.9511fdb6.js",
+    "static/js/453.10653494.chunk.js": "/rick-morty-query/character/static/js/453.10653494.chunk.js",
+    "index.html": "/rick-morty-query/character/index.html",
+    "main.e6c13ad2.css.map": "/rick-morty-query/character/static/css/main.e6c13ad2.css.map",
+    "main.9511fdb6.js.map": "/rick-morty-query/character/static/js/main.9511fdb6.js.map",
+    "453.10653494.chunk.js.map": "/rick-morty-query/character/static/js/453.10653494.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9511fdb6.js"
+  ]
+}
