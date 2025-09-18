@@ -15,7 +15,7 @@ export default function CharacterDetail() {
 
   return (
     <div>
-      <Link to="/rick-morty-query/character">&larr; Back to List</Link>
+      <Link to="/rick-morty-query">&larr; Back to List</Link>
       <h2>{data.name}</h2>
       <img src={data.image} alt={data.name} width={200} />
       <p>Status: {data.status}</p>
